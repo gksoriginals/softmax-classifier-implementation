@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+
 #importing classifier containing softmax function,cross entropy and gradient_descent
 from classifier import softmax_cross_entropy_error,gradient_descent_runner
 from dataset import fetch_data,randomize
