@@ -3,6 +3,8 @@
 
 
 import numpy as np
+
+
 """
 This is a naive implementaton of softmax,cross entropy loss function with numpy and python.
 Gradient descent is used for optimization
